@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ming Qian. My Chinese name is 钱铭.
 - 👀 I’m interested in computer vision and 3d vision
-- 🌱 I’m currently learning to nerf related works
+- 🌱 I currently focus on 3D vision.
 - 📫 How to reach me mingqian@whu.edu.cn
 - I'm a PhD student in Wuhan University. you can see my [web here](https://qianmingduowan.github.io/) .
 
